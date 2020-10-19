@@ -36,6 +36,8 @@ def observe_possible_frog_moves(current_state):
 # The previous implementation (found below) is very inefficient indeed -
 # exponential in time due to the tree being build explicitly.
 # Instead, here a build-and-traverse approach is adopted.
+
+
 def build_and_traverse(start_state, goal_state):
     """ DFS traverses the 'frog' tree by exploring the branches
         in-depth. Function returns when a solution is reached. """
