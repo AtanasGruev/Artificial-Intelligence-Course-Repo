@@ -1,0 +1,2 @@
+https://stats.stackexchange.com/questions/277298/create-a-higher-probability-to-smaller-values
+https://stackoverflow.com/questions/22720864/efficiently-calculating-a-euclidean-distance-matrix-using-numpy
